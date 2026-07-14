@@ -27,7 +27,7 @@ Also print:
 ## Final output example
 ```
 Number of students: 30
-Average score:      77.87
+Average score:      76.50
 Highest score:      100
 Lowest score:       45
 Students passed:    24  (>= 60)
